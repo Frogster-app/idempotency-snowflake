@@ -14,5 +14,5 @@ Unix timestamp                   Proccess       User ID                         
 Unix timestamp: Sun Oct 23 09:44:09 2022 UTC
 Endpoint:       Register (/auth/register)
 Proccess:       587
-User ID:        108
+Device ID:      108
 ```
